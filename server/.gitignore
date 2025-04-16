@@ -1,0 +1,25 @@
+# Python Bytecode and Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+*.venv/
+.venv/
+env/
+.env/
+ENV/
+.ENV/
+
+# IDE / Editor specific
+.idea/
+.vscode/
+
+# Secrets (if any are added later)
+.env
+
+# Temporary / OS files
+.DS_Store
+Thumbs.db 

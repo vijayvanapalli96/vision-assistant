@@ -1,0 +1,4 @@
+fastapi
+uvicorn[standard] # Includes standard dependencies like pydantic
+pillow
+python-multipart # Needed for handling form data/uploads, often useful with FastAPI 
